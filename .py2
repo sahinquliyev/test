@@ -1,0 +1,30 @@
+# class Person:
+#     def __init__(self, ad, yas):
+#         self.ad =ad
+#         self.yas =yas
+
+# eli =Person("eli",18) 
+# a = eli
+# a.ad = 'veli'
+# a.yas = 199
+
+# print(eli)
+
+a =546
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+ 
